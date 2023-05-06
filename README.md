@@ -47,7 +47,7 @@ The different steps involved in this Regression project are
 **Feature Scaling -**
 	Feature Scaling is a technique to bring the values into a particular range. Feature scaling helps the gradient descent reach the cost function minima easier than with the unscaled values. There are two types of scalings are
 * Normalization - Uses min and max values
-   * Standardization - Uses mean and standard deviation
+* Standardization - Uses mean and standard deviation
 ---
 **Model implementation -** In this project, we will implement Linear Regression, lasso regression, Ridge regression, elastic net Regression, Decision Tree , Random Forest Regression, Gradient Boost Regression, and XGB Regression. By looking into their model errors, we try to conclude.
 	
